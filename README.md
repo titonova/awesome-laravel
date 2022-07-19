@@ -1,3 +1,5 @@
+> The original awesome-laravel repo seems to have been abandoned and with no new maintainer. So, this is a fork to continue it. The pending pull requests on the original awesome-laravel repo which follow the [rules](https://github.com/chiraggude/awesome-laravel#contributing) given, have all been merged. It is, as of writing, 24 commits ahead of the original, and would continue to be updated regularly. Feel free to contribute!
+
 # Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
