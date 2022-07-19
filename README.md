@@ -131,6 +131,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Purifier](https://github.com/mewebstudio/purifier) - HTML filter
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 * [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
+* [Short URL](https://github.com/ash-jc-allen/short-url) - A Laravel package that can be used for adding shortened URLs to your existing web app.
 * [Page Cache](https://github.com/JosephSilber/page-cache) - Caches responses as static files on disk for lightning fast page loads
 * [Laravel Setting](https://github.com/anlutro/laravel-settings) - Persistent configuration settings that are stored in JSON files
 * [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system
