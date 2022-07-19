@@ -414,6 +414,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Starter Projects
 
 * [Spark](https://spark.laravel.com/)
+* [Wave] (https://github.com/thedevdojo/wave) - Wave is a Software as a Service Starter Kit that can help you build your next great idea 💰. Wave is built with Laravel, Voyager, TailwindCSS, and a few other awesome technologies. Here are some of the awesome features ✨:
 * [LaraAdmin](https://github.com/dwijitsolutions/laraadmin)
 * [Grafite Builder](https://github.com/GrafiteInc/Builder)
 * [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
