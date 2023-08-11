@@ -174,9 +174,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pjax](https://github.com/spatie/laravel-pjax) - A Pjax middleware
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
 * [Ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
-* [LiveWire]([https://github.com/livewire/livewire](https://livewire.laravel.com/)) - A magical front-end framework for Laravel for Powerful, dynamic, front-end UIs without leaving PHP.
 
-
+##### UI & UI kits
+* [Livewire](https://livewire.laravel.com/) - A magical front-end framework for Laravel for Powerful, dynamic, front-end UIs without leaving PHP.
+* [Blade UI Kit](https://blade-ui-kit.com/) - A set of renderless components to utilise in your Laravel Blade views. Built for the TALL stack. Completely open-source.
+* [WireUI](https://livewire-wireui.com/docs/get-started) - A simple, fast and elegant way to add blade components made with alpine.js and tailwind, ready to use, enjoy the ease. Livewire components and Tall Stack components
 
 ##### Databases, ORMs, Migrations & Seeding
 
