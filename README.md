@@ -11,6 +11,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Essentials](#essentials)
 - [Packages](#packages)
 - [Popular Packages](#popular-packages)
+- [Automation](#automation)
 - [Development Setup](#development-setup)
 - [Application Hosting](#application-hosting)
 - [Application Deployment](#application-deployment)
@@ -262,6 +263,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Instagram](https://github.com/vinkla/laravel-instagram) - Instagram API bridge
 * [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
+
+## Automation
+
+##### Github Actions
+
+* [Security Scanner for Laravel](https://github.com/ephort/security-scanner-actions) - Security Scanner for Laravel 
 
 ## Development Setup
 
