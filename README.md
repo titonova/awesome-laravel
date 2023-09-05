@@ -270,9 +270,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Automation
 
-##### Github Actions
+##### GitHub Actions
 
-* [Security Scanner for Laravel](https://github.com/ephort/security-scanner-actions) - Security Scanner for Laravel 
+* [Security Scanner for Laravel](https://github.com/ephort/security-scanner-actions) - Security Scanner for Laravel GitHub Action
+* [Laravel Pint](https://github.com/aglipanci/laravel-pint-action) - Laravel Pint GitHub Action
 
 ## Development Setup
 
