@@ -463,7 +463,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Koel](https://github.com/phanan/koel) - Personal music streaming server
 * [Laravel.io](https://github.com/laravelio/portal) - Source for the Laravel.io Community Portal
 * [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
-* [Antvel](https://github.com/ant-vel/App) - Ecommerce platform
+* [Antvel](https://github.com/ihalton/Antvel) - Ecommerce platform
 * [Jigsaw](https://github.com/tightenco/jigsaw) - Static site generator
 * [Canvas](https://github.com/cnvs/canvas) - A Laravel Publishing Platform
 * [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
