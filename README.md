@@ -124,6 +124,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
 * [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
+* [Laravel Pulse](https://pulse.laravel.com/) - Pulse delivers at-a-glance insights into your application's performance and usage. Track down bottlenecks like slow jobs and endpoints, find your most active users, and more.
 * [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - Approve or reject resources like posts, comments, users, etc.
 * [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
